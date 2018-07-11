@@ -1,0 +1,2 @@
+cd /GitHub/kurslar_web_2
+browser-sync start --server --files "*.html, css/*.css"
